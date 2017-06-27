@@ -1,0 +1,29 @@
+.todo-item {
+	margin: 1em;
+	padding: 1em;
+	border: solid 1px #000000;
+}
+
+.todo-item-name a {
+	color: #0000ff;
+	cursor: pointer;
+}
+
+.todo-item-name {
+	color: #aaaaaa;
+}
+
+.todo-item-controls {
+	text-align: right;
+}
+
+
+.todo-edit {
+	margin: 1em;
+	padding: 1em;
+	border: dashed 2px #ff0000;
+}
+
+.todo-edit textarea {
+	min-height: 5em;
+}

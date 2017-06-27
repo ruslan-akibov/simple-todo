@@ -54,9 +54,11 @@ ToDo.prototype._markup = function() {
 		'</div>' +
 		'<div class="todo-edit">' +
 			'<div class="todo-edit-name">' +
+				'Task name: ' +
 				'<input type="text" />' +
 			'</div>' +
 			'<div class="todo-edit-task">' +
+				'Task description:<br/>' +
 				'<textarea></textarea>' +
 			'</div>' +
 			'<div class="todo-edit-buttons">' +
